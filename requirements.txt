@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+opencv-python
+xgboost
+scikit-learn
+joblib
+pandas
+numpy  # Don't pin to 1.21.4
+python-multipart
