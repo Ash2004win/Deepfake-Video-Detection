@@ -1,9 +1,14 @@
 fastapi
 uvicorn
-opencv-python
 xgboost
-scikit-learn
-joblib
+numpy
 pandas
-numpy  # Don't pin to 1.21.4
+opencv-python
+scikit-learn
 python-multipart
+pydantic
+librosa
+soundfile
+ffmpeg-python      # if you're using ffmpeg to extract frames/audio
+aiofiles           # for asynchronous file handling in FastAPI
+
